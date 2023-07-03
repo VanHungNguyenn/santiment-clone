@@ -1,0 +1,21 @@
+:root {
+    --font-family: "Poppins", sans-serif;
+
+    --primary-color: #14c393;
+    --primary-color-hover: #1fac85;
+    --primary-color-hover-2: #142532;
+    --green-color: #26c953;
+    --purple-color: #8358ff;
+    --purple-color-hover: #6339dd;
+    --purple-light: #1d1e35;
+    --red-color: #ff6363;
+    --white-color: #fff;
+    --accents-line: #222639;
+
+    --text-color-hi: var(var(--white-color));
+    --text-color-me: #8b93b6;
+    --text-color-lo: #505573;
+
+    --background-color-hi: #181b2b;
+    --background-color-me: #1c1f31;
+}
