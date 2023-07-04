@@ -12,7 +12,7 @@
     --white-color: #fff;
     --accents-line: #222639;
 
-    --text-color-hi: var(var(--white-color));
+    --text-color-hi: #fff;
     --text-color-me: #8b93b6;
     --text-color-lo: #505573;
 
